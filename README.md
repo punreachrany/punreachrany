@@ -2,7 +2,7 @@
 
 ## I'm a Programmer, Public Speaker, Fifa Gamer, Digital Nomad and Geeeek!
 
-- 🔭 I’m currently working on a Flutter, iOS with Swift, React Native, Nextjs and Computer Vision.
+- 🔭 I’m currently working on a Flutter, iOS with Swift, React Native, NodeJS and Computer Vision.
 - 🌱 My dream is to become a entreprenuer and a well-known public speaker. 😎
 - 🥅 2021 Goals: Improve my public speaking skills and iOS development.
 
