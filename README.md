@@ -16,7 +16,7 @@
 <br />
 
 ![Punreach's github stats](https://github-readme-stats.vercel.app/api?username=punreachrany&count_private=true&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punreachrany&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punreachrany&langs_count=8) -->
 
 [youtube]: https://www.youtube.com/channel/UCvvXWyMdvo2nqE_OXP0ASpw
 [instagram]: https://www.instagram.com/punreach_rany/
