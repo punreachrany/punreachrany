@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on a Flutter, iOS with Swift, React Native, NodeJS and Computer Vision.
 - 🌱 My dream is to become a entreprenuer and a well-known public speaker. 😎
 - 🥅 2021 Goals: Improve my public speaking skills and iOS development.
+- 🥅 2022 Goals: Improve my Android development, re-study Computer Vision (Short of), and earn a lot of money (Hopefully). 😂 
 
 ### Connect with me:
 
