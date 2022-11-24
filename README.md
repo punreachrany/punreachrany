@@ -6,7 +6,6 @@
 - 🌱 My dream is to become a entreprenuer and a well-known public speaker. 😎
 - 🥅 2021 Goals: Improve my public speaking skills and iOS development.
 - 🥅 2022 Goals: Improve my Android development, re-study Computer Vision, and earn a lot of money (Hopefully). 😂 
-- 🥅 2022 Goals: 안드로이드 개발지식 향상, 클라이밍, 마지막으로 돈을 많이 벌어야죠. (가능하면 😂)
 
 ### Connect with me:
 
